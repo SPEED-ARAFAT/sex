@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/379.0.0.24.109;FBBV/315814638;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Grameenphone;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-P200;FBSV/9.0;nullFBCA/arm64-v8a:;]
+Dalvik/2.1.0 (Linux; U; Android 7.0; LG-H901 Build/NRD90U) [FBAN/Orca-Android;FBAV/286.0.0.21.122;FBPN/com.facebook.orca;FBLC/en_US;FBBV/250669427;FBCR/Airtel;FBMF/LGE;FBBD/lge;FBDV/LG-H901;FBSV/7.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=4.0,width=1440,height=2392};FB_FW/1;] FBBK/1
